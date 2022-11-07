@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📚 Projeto
 
-O *Calendário de Jogos* é uma aplicação web que permite exibir jogos da Copa do Mundo de 2022.
+O **Calendário de Jogos** é uma aplicação web que permite exibir jogos da Copa do Mundo de 2022.
 
 <br>
 
