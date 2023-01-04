@@ -42,11 +42,10 @@ O **Calendário de Jogos** é uma aplicação web que permite exibir jogos da Co
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/Eh3CCaTTVZozrnVkX2Gmsf/Calend%C3%A1rio-de-Jogos-(Community)?node-id=172%3A179). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link]().
 
 <br>
 
 ## 📄 Licença
 
 Esse projeto está sob a licença MIT.
-
